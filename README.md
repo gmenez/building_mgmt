@@ -24,3 +24,8 @@ https://randomnerdtutorials.com/esp-mesh-esp32-esp8266-painlessmesh/
 On essayera de mettre en place une démarche econome en énergie au niveau de la programmation et de l'architecture.
 
 On ne peut utiliser QUE DES SOLUTIONS libres de droit ( y compris après la période d'essai)
+
+![geo](geoloc.png)
+
+
+![space](spaceout.gif)
