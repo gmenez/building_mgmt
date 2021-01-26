@@ -28,4 +28,4 @@ On ne peut utiliser QUE DES SOLUTIONS libres de droit ( y compris après la pér
 ![geo](geoloc.png)
 
 
-![space](spaceout.gif)
+![space](spaceout.png)
