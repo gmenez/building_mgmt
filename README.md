@@ -22,13 +22,22 @@ occupants.
 
 * Le dashboard permettra de configurer/accéder aux statuts des objets.
 
+Il y a d'autres projets qui utilise un "champ de valeurs" au niveau de
+la visualisation. Sur ce point, une collaboration est possible => il
+vaut mieux un truc bien que plusieurs versions  "pasglop" !
+
+Voilà à quoi pourrait correspondre cette visualisation des
+temperatures :
+
+![geo](geoloc.png)
+
 ## Les objets
 
 La programmation de ces objets devra utiliser OTA.
 
 Ces objets peuvent émettre des notifications : température excessive
 due à un incendie, lumière laissée allumée sans occupants, tentative
-de vol de l'objet
+de vol de l'objet, ...
 
 ## Réseau
 
@@ -46,7 +55,6 @@ niveau de la programmation et de l'architecture.
 On ne peut utiliser QUE DES SOLUTIONS libres de droit ( y compris
 après la période d'essai)
 
-![geo](geoloc.png)
 
 
 ![space](spaceout.png)
