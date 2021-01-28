@@ -22,12 +22,12 @@ occupants.
 
 * Le dashboard permettra de configurer/accéder aux statuts des objets.
 
-Il y a d'autres projets qui utilise un "champ de valeurs" au niveau de
-la visualisation. Sur ce point, une collaboration est possible => il
-vaut mieux un truc bien que plusieurs versions  "pasglop" !
+Il y a d'autres projets qui vont avoir besoin d'une visualisation d'un
+"champ de valeurs".  Sur ce point, une collaboration est possible =>
+il vaut mieux un truc bien que plusieurs versions "pas glop" !
 
 Voilà à quoi pourrait correspondre cette visualisation des
-temperatures :
+températures :
 
 ![geo](geoloc.png)
 
