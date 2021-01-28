@@ -32,6 +32,7 @@ températures :
 ![geo](geoloc.png)
 
 ## Les objets
+On peut utiliser ESP32 CAM
 
 La programmation de ces objets devra utiliser OTA.
 
