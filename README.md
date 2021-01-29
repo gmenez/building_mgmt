@@ -59,5 +59,10 @@ On ne peut utiliser QUE DES SOLUTIONS libres de droit ( y compris
 après la période d'essai)
 
 
+Je préfère qu'une partie soit bien traitée
+(dans son contexte) plutôt que d'obtenir un truc sans forme !
 
+* Donc plutôt séquentialiser le traitement des difficultés ... quitte
+  à ne pas toutes les traiter.
+  
 ![space](spaceout.png)
