@@ -4,6 +4,8 @@ Le projet “Bâtiment intelligent” a pour objectif de construire un
 outil de gestion des températures (et un peu plus) du batiment des
 Lucioles.
 
+![luc](PlansLucioles/EsMasseBIS-MASSE.png)
+
 ## Dashboard
 
 Il s'agit d'obtenir un dashboard visuable depuis une page Web.
